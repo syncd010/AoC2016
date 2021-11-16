@@ -1,0 +1,8 @@
+{
+  "name": "aoc2016",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.1"
+  }
+}

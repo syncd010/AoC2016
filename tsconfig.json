@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "outDir": "out",
+        "types": [
+            "node"
+        ],
+        "target": "esnext",
+        "module": "commonjs",
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "src/day_template.ts"
+    ]
+}
